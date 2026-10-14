@@ -1,7 +1,7 @@
 from simpintr import simple_intrest
 
 def test_simple_intrest_1():
-    assert simple_intrest2(2000, 20, 3) == 1200
+    assert simple_intrest(2000, 20, 3) == 1200
 def test_simple_intrest_2():    
     assert simple_intrest(10000, 10, 1) == 1000
 def test_simple_intrest_3():    
