@@ -1,3 +1,4 @@
+import sys
 def simple_intrest(principal,intrest,time):
     return (principal*intrest*time)/100
 
